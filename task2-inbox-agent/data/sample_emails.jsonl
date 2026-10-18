@@ -1,0 +1,50 @@
+{"id": "email-001", "from": "customer001@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-002", "from": "customer002@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-003", "from": "customer003@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-004", "from": "customer004@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-005", "from": "customer005@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-006", "from": "customer006@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-007", "from": "customer007@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-008", "from": "customer008@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-009", "from": "customer009@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-010", "from": "customer010@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-011", "from": "customer011@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-012", "from": "customer012@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-013", "from": "customer013@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-014", "from": "customer014@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-015", "from": "customer015@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-016", "from": "customer016@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-017", "from": "customer017@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-018", "from": "customer018@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-019", "from": "customer019@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-020", "from": "customer020@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-021", "from": "customer021@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-022", "from": "customer022@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-023", "from": "customer023@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-024", "from": "customer024@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-025", "from": "customer025@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-026", "from": "customer026@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-027", "from": "customer027@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-028", "from": "customer028@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-029", "from": "customer029@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-030", "from": "customer030@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-031", "from": "customer031@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-032", "from": "customer032@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-033", "from": "customer033@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-034", "from": "customer034@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-035", "from": "customer035@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-036", "from": "customer036@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-037", "from": "customer037@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-038", "from": "customer038@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-039", "from": "customer039@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-040", "from": "customer040@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-041", "from": "customer041@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-042", "from": "customer042@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-043", "from": "customer043@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-044", "from": "customer044@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}
+{"id": "email-045", "from": "customer045@example.com", "subject": "Cancel account", "body": "Please help me cancel my account.", "expected_category": "cancellation", "synthetic": true}
+{"id": "email-046", "from": "customer046@example.com", "subject": "New integration", "body": "Can you add an integration with our CRM?", "expected_category": "feature_request", "synthetic": true}
+{"id": "email-047", "from": "customer047@example.com", "subject": "Urgent complaint", "body": "I am unhappy with this issue and need a manager.", "expected_category": "complaint", "synthetic": true}
+{"id": "email-048", "from": "customer048@example.com", "subject": "Account question", "body": "Where can I update my account information?", "expected_category": "general", "synthetic": true}
+{"id": "email-049", "from": "customer049@example.com", "subject": "Invoice question", "body": "I was charged twice for my subscription.", "expected_category": "billing", "synthetic": true}
+{"id": "email-050", "from": "customer050@example.com", "subject": "Dashboard error", "body": "The dashboard is not working and shows an error.", "expected_category": "technical_support", "synthetic": true}

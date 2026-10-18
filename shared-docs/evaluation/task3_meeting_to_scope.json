@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MS-01",
+    "request": "Build a contact form",
+    "expected_behavior": "in_scope_or_baseline"
+  },
+  {
+    "id": "MS-02",
+    "request": "Add CRM integration",
+    "expected_behavior": "capability_check"
+  },
+  {
+    "id": "MS-03",
+    "request": "Create an admin dashboard",
+    "expected_behavior": "estimate_and_review"
+  },
+  {
+    "id": "MS-04",
+    "request": "Implement email notifications",
+    "expected_behavior": "estimate_and_review"
+  },
+  {
+    "id": "MS-05",
+    "request": "Add a mobile application",
+    "expected_behavior": "possible_out_of_scope"
+  },
+  {
+    "id": "MS-06",
+    "request": "Improve search filters",
+    "expected_behavior": "requirement_extraction"
+  },
+  {
+    "id": "MS-07",
+    "request": "Create a reporting page",
+    "expected_behavior": "estimate_and_review"
+  },
+  {
+    "id": "MS-08",
+    "request": "Add payment processing",
+    "expected_behavior": "capability_check"
+  },
+  {
+    "id": "MS-09",
+    "request": "Change the approved design",
+    "expected_behavior": "scope_comparison"
+  },
+  {
+    "id": "MS-10",
+    "request": "Add multilingual support",
+    "expected_behavior": "capability_check"
+  },
+  {
+    "id": "MS-11",
+    "request": "Build a new customer portal",
+    "expected_behavior": "possible_out_of_scope"
+  },
+  {
+    "id": "MS-12",
+    "request": "Update user permissions",
+    "expected_behavior": "requirement_extraction"
+  },
+  {
+    "id": "MS-13",
+    "request": "Add an export function",
+    "expected_behavior": "estimate_and_review"
+  },
+  {
+    "id": "MS-14",
+    "request": "Connect an external API",
+    "expected_behavior": "capability_check"
+  },
+  {
+    "id": "MS-15",
+    "request": "Change project deadline",
+    "expected_behavior": "human_review"
+  },
+  {
+    "id": "MS-16",
+    "request": "Add audit logs",
+    "expected_behavior": "requirement_extraction"
+  },
+  {
+    "id": "MS-17",
+    "request": "Replace the existing workflow",
+    "expected_behavior": "scope_comparison"
+  },
+  {
+    "id": "MS-18",
+    "request": "Add an analytics dashboard",
+    "expected_behavior": "estimate_and_review"
+  },
+  {
+    "id": "MS-19",
+    "request": "Support a new user role",
+    "expected_behavior": "requirement_extraction"
+  },
+  {
+    "id": "MS-20",
+    "request": "Add requirements not in the baseline",
+    "expected_behavior": "possible_out_of_scope"
+  }
+]

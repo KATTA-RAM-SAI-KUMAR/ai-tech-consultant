@@ -1,0 +1,5 @@
+Customer: We need our CRM connected to the portal.
+Consultant: We should confirm which CRM, data fields, and sync direction are required.
+Customer: Add an admin report showing integration failures.
+Consultant: We need to verify product capabilities before committing.
+Customer: Include this as a proposed change until the details are approved.

@@ -1,0 +1,5 @@
+Customer: We need a refreshed member portal.
+Consultant: We should update the member search, profile page, and contact form.
+Customer: Please include email notifications when a profile changes.
+Consultant: I will draft the scope and estimate each item for approval.
+Customer: We are not asking for a mobile app in this phase.

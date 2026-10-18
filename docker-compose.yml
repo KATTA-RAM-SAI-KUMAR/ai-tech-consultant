@@ -1,0 +1,21 @@
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: ai-consultant-db
+    environment:
+      POSTGRES_DB: consultant
+      POSTGRES_USER: consultant
+      POSTGRES_PASSWORD: local_dev_password
+    ports:
+      - "5433:5432"
+    volumes:
+      - consultant_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U consultant -d consultant"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  consultant_data:

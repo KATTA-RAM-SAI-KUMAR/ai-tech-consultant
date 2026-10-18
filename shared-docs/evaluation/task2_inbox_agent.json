@@ -1,0 +1,142 @@
+[
+  {
+    "id": "IN-01",
+    "subject": "billing",
+    "body": "I was charged twice.",
+    "expected_category": "billing",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-02",
+    "subject": "technical_support",
+    "body": "The page returns an error.",
+    "expected_category": "technical_support",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-03",
+    "subject": "cancellation",
+    "body": "Please cancel my account.",
+    "expected_category": "cancellation",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-04",
+    "subject": "feature_request",
+    "body": "Please add a new integration.",
+    "expected_category": "feature_request",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-05",
+    "subject": "complaint",
+    "body": "I am angry and want a manager.",
+    "expected_category": "complaint",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-06",
+    "subject": "general",
+    "body": "Where do I change my profile?",
+    "expected_category": "general",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-07",
+    "subject": "billing",
+    "body": "I was charged twice.",
+    "expected_category": "billing",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-08",
+    "subject": "technical_support",
+    "body": "The page returns an error.",
+    "expected_category": "technical_support",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-09",
+    "subject": "cancellation",
+    "body": "Please cancel my account.",
+    "expected_category": "cancellation",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-10",
+    "subject": "feature_request",
+    "body": "Please add a new integration.",
+    "expected_category": "feature_request",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-11",
+    "subject": "complaint",
+    "body": "I am angry and want a manager.",
+    "expected_category": "complaint",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-12",
+    "subject": "general",
+    "body": "Where do I change my profile?",
+    "expected_category": "general",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-13",
+    "subject": "billing",
+    "body": "I was charged twice.",
+    "expected_category": "billing",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-14",
+    "subject": "technical_support",
+    "body": "The page returns an error.",
+    "expected_category": "technical_support",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-15",
+    "subject": "cancellation",
+    "body": "Please cancel my account.",
+    "expected_category": "cancellation",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-16",
+    "subject": "feature_request",
+    "body": "Please add a new integration.",
+    "expected_category": "feature_request",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-17",
+    "subject": "complaint",
+    "body": "I am angry and want a manager.",
+    "expected_category": "complaint",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-18",
+    "subject": "general",
+    "body": "Where do I change my profile?",
+    "expected_category": "general",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-19",
+    "subject": "billing",
+    "body": "I was charged twice.",
+    "expected_category": "billing",
+    "expected_behavior": "draft_requires_human_approval"
+  },
+  {
+    "id": "IN-20",
+    "subject": "technical_support",
+    "body": "The page returns an error.",
+    "expected_category": "technical_support",
+    "expected_behavior": "draft_requires_human_approval"
+  }
+]

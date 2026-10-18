@@ -1,0 +1,5 @@
+Customer: The approved baseline includes a contact form and member search.
+Consultant: What has changed since the baseline?
+Customer: We now need a mobile application and payment processing too.
+Consultant: These appear to be additional requests and require capability and effort review.
+Customer: Please flag the additions for approval before work begins.
